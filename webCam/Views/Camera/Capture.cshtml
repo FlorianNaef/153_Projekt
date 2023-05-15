@@ -1,0 +1,103 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>WeCamJS Test Page</title>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/css/site.css" rel="stylesheet" />
+
+        <style type="text/css">
+
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            h2, h3 {
+                margin-top: 0;
+            }
+
+            form {
+                margin-top: 15px;
+            }
+
+            form > input {
+                margin-right: 15px;
+            }
+
+            #buttonhide {
+                background: transparent;
+                border: none !important;
+                font-size: 0;
+            }
+        </style>
+    </head>
+    <body class="container">
+
+        <div id="my_camera"></div>
+
+
+        <div id="side">
+            <br />
+
+            <form>
+                <input type="button" id="btnPhoto" value="Foto machen" onclick="take_snapshot()" />
+            </form>
+            <h1>Fotowettbewerb</h1>
+
+            <h2>Captured Photo</h2>
+            <div id="results">
+                Your Captured image will appear here...
+            </div>
+        </div>
+
+        <div id="contact">
+
+        <label for="fname">Vorname:</label>
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="lname">Nachname:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <label for="lname">Alter:</label>
+        <input type="text" id="age" name="age"><br><br>
+        <label for="lname">E-mail:</label>
+        <input type="text" id="email" name="email"><br><br>
+        <label for="lname">Telefonnummer:</label>
+        <input type="text" id="tel" name="tel"><br><br>
+        <label for="lname">Strasse:</label>
+        <input type="text" id="street" name="street"><br><br>
+        <label for="lname">PLZ:</label>
+        <input type="text" id="plz" name="plz"><br><br>
+
+        </div>
+
+
+
+
+
+        <script src="~/WebCamjs/webcam.js"></script>
+        <script language="JavaScript">
+            Webcam.set({
+                width: 1400,
+                height: 1080,
+                dest_width: 320,
+                dest_height: 240,
+                image_format: 'jpeg',
+                jpeg_quality: 90
+            });
+            Webcam.attach('#my_camera');
+        </script>
+        <script language="JavaScript">
+            function take_snapshot() {
+                Webcam.snap(function(data_uri) {
+                    document.getElementById('results').innerHTML = '<img src="' + data_uri + '"/>';
+                    Webcam.upload(data_uri, 'Camera/CapturePhoto', function(code, text) {
+                        alert('Photo Captured');
+                    });
+                });
+            }
+        </script>
+    </body>
+</html>
