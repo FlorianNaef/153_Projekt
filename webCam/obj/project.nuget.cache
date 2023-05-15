@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkeVwQZufynH1nW5dsWXD4LNIX0+zcuU7XWDXRZRjri7wCoGWPFZcRir3vyVe0TYU7WpTIi96iAjagGaqPH66A==",
+  "dgSpecHash": "w1VNU1LVN/CpZbhaerm5ztW+YpplggiRq6Kvjr5LSewMxWTY88sOTZytl8BModiBnYgGfz08QH2wZEpVRYO/ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\webCam.csproj",
+  "projectFilePath": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\webCam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flori\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

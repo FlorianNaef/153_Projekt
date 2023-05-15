@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gYane6jFgRzdvjYgtQbTvBLGo70k5Q45TNPAQt5r624=",
+  "Hash": "KrFVp1gYVi7xbwAsb7m6fV5QHUYTp2ImufDHiYPVG8g=",
   "Source": "webCam",
   "BasePath": "_content/webCam",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "webCam\\wwwroot",
       "Source": "webCam",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webCam.styles.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webCam.styles.css",
       "SourceId": "webCam",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/webCam",
       "RelativePath": "webCam.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webCam.styles.css"
+      "OriginalItemSpec": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webCam.styles.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webCam.bundle.scp.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webCam.bundle.scp.css",
       "SourceId": "webCam",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/webCam",
       "RelativePath": "webCam.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,47 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webCam.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webCam.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\CameraPhotos\\39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\125a5f18-ae96-4be4-9491-ec046db2257e.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/125a5f18-ae96-4be4-9491-ec046db2257e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\125a5f18-ae96-4be4-9491-ec046db2257e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\1813af80-4f4b-4b90-9fb5-97b227f1aed2.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/1813af80-4f4b-4b90-9fb5-97b227f1aed2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\1813af80-4f4b-4b90-9fb5-97b227f1aed2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "CameraPhotos/39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg",
       "AssetKind": "All",
@@ -68,10 +102,44 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\CameraPhotos\\acfefc5f-6815-4967-b38f-044e03dbbb26.jpg",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\5ac2a942-7cce-4a4f-b20e-9487e836569d.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/5ac2a942-7cce-4a4f-b20e-9487e836569d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\5ac2a942-7cce-4a4f-b20e-9487e836569d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\837b4fb0-abf7-4618-a093-30580cceaee9.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/837b4fb0-abf7-4618-a093-30580cceaee9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\837b4fb0-abf7-4618-a093-30580cceaee9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\acfefc5f-6815-4967-b38f-044e03dbbb26.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "CameraPhotos/acfefc5f-6815-4967-b38f-044e03dbbb26.jpg",
       "AssetKind": "All",
@@ -85,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\acfefc5f-6815-4967-b38f-044e03dbbb26.jpg"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\CameraPhotos\\d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "CameraPhotos/d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg",
       "AssetKind": "All",
@@ -102,10 +170,44 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\ed0880a4-d5c9-4850-8d12-a36f780e0ae3.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/ed0880a4-d5c9-4850-8d12-a36f780e0ae3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\ed0880a4-d5c9-4850-8d12-a36f780e0ae3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\f7ff240a-bfe2-4769-9351-f5d96433152f.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/f7ff240a-bfe2-4769-9351-f5d96433152f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\f7ff240a-bfe2-4769-9351-f5d96433152f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\css\\site.css",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -119,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\favicon.ico",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\js\\site.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -170,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -187,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -204,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -221,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -238,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -255,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -272,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -289,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -306,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -323,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -340,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -357,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -374,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -391,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -408,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -425,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -442,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -459,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -476,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -493,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -510,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -578,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -595,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -612,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -629,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -646,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -714,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -731,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -748,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -765,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -782,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -799,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -816,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -833,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -867,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -884,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -901,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -918,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -935,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -952,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -969,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -986,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1003,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1020,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1037,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1054,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1071,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1088,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1105,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1122,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\bower.json",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\bower.json",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/bower.json",
       "AssetKind": "All",
@@ -1139,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\bower.json"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\build.sh",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\build.sh",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/build.sh",
       "AssetKind": "All",
@@ -1156,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\build.sh"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\DOCS.md",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\DOCS.md",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/DOCS.md",
       "AssetKind": "All",
@@ -1173,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\DOCS.md"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\BitString.as",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\BitString.as",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/com/adobe/images/BitString.as",
       "AssetKind": "All",
@@ -1190,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\BitString.as"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\JPGEncoder.as",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\JPGEncoder.as",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/com/adobe/images/JPGEncoder.as",
       "AssetKind": "All",
@@ -1207,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\JPGEncoder.as"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\PNGEncoder.as",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\PNGEncoder.as",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/com/adobe/images/PNGEncoder.as",
       "AssetKind": "All",
@@ -1224,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\com\\adobe\\images\\PNGEncoder.as"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\mx\\utils\\Base64Encoder.as",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\mx\\utils\\Base64Encoder.as",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/mx/utils/Base64Encoder.as",
       "AssetKind": "All",
@@ -1241,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\mx\\utils\\Base64Encoder.as"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\README.txt",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\README.txt",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/README.txt",
       "AssetKind": "All",
@@ -1258,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\Webcam.as",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\Webcam.as",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/Webcam.as",
       "AssetKind": "All",
@@ -1275,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\Webcam.as"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\flash\\Webcam.fla",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\flash\\Webcam.fla",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/flash/Webcam.fla",
       "AssetKind": "All",
@@ -1292,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\flash\\Webcam.fla"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\LICENSE",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\LICENSE",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/LICENSE",
       "AssetKind": "All",
@@ -1309,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\package.json",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\package.json",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/package.json",
       "AssetKind": "All",
@@ -1326,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\package.json"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\README.md",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\README.md",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/README.md",
       "AssetKind": "All",
@@ -1343,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\README.md"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\webcam.js",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\webcam.js",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/webcam.js",
       "AssetKind": "All",
@@ -1360,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\WebCamjs\\webcam.js"
     },
     {
-      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\WebCamjs\\webcam.swf",
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\WebCamjs\\webcam.swf",
       "SourceId": "webCam",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\M153_WebCam-main\\webCam\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
       "BasePath": "_content/webCam",
       "RelativePath": "WebCamjs/webcam.swf",
       "AssetKind": "All",
