@@ -31,7 +31,9 @@
             #buttonhide {
                 display: none;
             }
-        </style>
+
+            
+            </style>
     </head>
     <body class="container">
 
@@ -40,39 +42,57 @@
         <button id="btnPhoto" onclick="take_snapshot()">Foto machen</button>
         
         <div id="side">
-            <button id="btnLogin" onclick="login()">employees</button>
-            <br />
-
-            
+                       
             <h1>Fotowettbewerb</h1>
             <br />
-            <p>Fotowettbewerb bla bla</p>
+            <p>OLMA - Fotowettbewerb 2023</p>
 
         </div>
+
+        <button id="btnLogin" onclick="showLogin()">Mitarbeitende</button>
+
+
 
         <div id="contact">
 
-        <div id="results">
-            Your Captured image will appear here...
+            <div id="results">
+                Your Captured image will appear here...
+            </div>
+
+            <label>Vorname:</label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <label>Nachname:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label>Alter:</label>
+            <input type="text" id="age" name="age"><br><br>
+            <label>E-mail:</label>
+            <input type="text" id="email" name="email"><br><br>
+            <label>Telefonnummer:</label>
+            <input type="text" id="tel" name="tel"><br><br>
+            <label>Strasse:</label>
+            <input type="text" id="street" name="street"><br><br>
+            <label>PLZ:</label>
+            <input type="text" id="plz" name="plz"><br><br>
+
+            <button id="btnFinish" onclick="finish()">Teilnahme abschliessen</button>
+
+        <br />
+
+        
         </div>
 
-        <label for="fname">Vorname:</label>
-        <input type="text" id="fname" name="fname"><br><br>
-        <label for="lname">Nachname:</label>
-        <input type="text" id="lname" name="lname"><br><br>
-        <label for="lname">Alter:</label>
-        <input type="text" id="age" name="age"><br><br>
-        <label for="lname">E-mail:</label>
-        <input type="text" id="email" name="email"><br><br>
-        <label for="lname">Telefonnummer:</label>
-        <input type="text" id="tel" name="tel"><br><br>
-        <label for="lname">Strasse:</label>
-        <input type="text" id="street" name="street"><br><br>
-        <label for="lname">PLZ:</label>
-        <input type="text" id="plz" name="plz"><br><br>
+        <div id="employeeLogin">
+            <label>Benutzername:</label>
+            <input type="text" id="ename" name="ename"><br><br>
+            <label>Passwort:</label>
+            <input type="password" id="password" name="password"><br><br>
+            <button id="btnAuthenticate" onclick="authenticate()">Anmelden</button>
+        </div>
 
-        <button id="btnFinish" onclick="finish()">Teilnahme abschliessen</button>
-
+        <div id="employeeView">
+            <button id="btnWinner" onclick="winner()">Wettbewerb auflösen</button>
+            <p>Gewinner: </p><p id="winner"></p>
+            <button id="btnBack" onclick="back()">zurück</button>
         </div>
 
 
@@ -100,6 +120,23 @@
                         //alert('Photo Captured');
                     });
                 });
+            }
+
+            function back() {
+                document.getElementById('employeeLogin').style.display = "none";
+                document.getElementById('employeeView').style.display = "none";
+            }
+
+            function winner() {
+                document.getElementById('winner').innerHTML = "Rainer Winkler";
+            }
+
+            function showLogin() {
+                document.getElementById('employeeLogin').style.display = "block";
+            }
+
+            function authenticate() {
+                document.getElementById('employeeView').style.display = "block";
             }
 
             function finish(){

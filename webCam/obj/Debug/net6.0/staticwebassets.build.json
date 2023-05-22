@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KrFVp1gYVi7xbwAsb7m6fV5QHUYTp2ImufDHiYPVG8g=",
+  "Hash": "QzjnK9uIjmT0OmmK4n4NRAdUWrMeO64ugxdj/B2puhA=",
   "Source": "webCam",
   "BasePath": "_content/webCam",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webCam.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\00e612df-2bfe-4c76-9faa-2c43b9f08212.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/00e612df-2bfe-4c76-9faa-2c43b9f08212.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\00e612df-2bfe-4c76-9faa-2c43b9f08212.jpg"
+    },
+    {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\125a5f18-ae96-4be4-9491-ec046db2257e.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
@@ -85,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\1813af80-4f4b-4b90-9fb5-97b227f1aed2.jpg"
     },
     {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\19c5e5ad-c759-40ac-9b7c-d19fc79f2777.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/19c5e5ad-c759-40ac-9b7c-d19fc79f2777.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\19c5e5ad-c759-40ac-9b7c-d19fc79f2777.jpg"
+    },
+    {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
@@ -100,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\39d17bd0-7a53-4b03-b83a-89c61432ace3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\5317aa87-e9cc-42b3-a161-cf9591b5fc70.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/5317aa87-e9cc-42b3-a161-cf9591b5fc70.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\5317aa87-e9cc-42b3-a161-cf9591b5fc70.jpg"
     },
     {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\5ac2a942-7cce-4a4f-b20e-9487e836569d.jpg",
@@ -119,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\5ac2a942-7cce-4a4f-b20e-9487e836569d.jpg"
     },
     {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\79cee8b0-a540-4f6d-84f7-90888717cbd7.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/79cee8b0-a540-4f6d-84f7-90888717cbd7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\79cee8b0-a540-4f6d-84f7-90888717cbd7.jpg"
+    },
+    {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\837b4fb0-abf7-4618-a093-30580cceaee9.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
@@ -134,6 +202,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\837b4fb0-abf7-4618-a093-30580cceaee9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\9a62cdf1-cd0e-499b-a695-97966f4763ba.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/9a62cdf1-cd0e-499b-a695-97966f4763ba.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\9a62cdf1-cd0e-499b-a695-97966f4763ba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\aae91243-e79f-4e8d-a297-508c305efdec.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/aae91243-e79f-4e8d-a297-508c305efdec.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\aae91243-e79f-4e8d-a297-508c305efdec.jpg"
     },
     {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\acfefc5f-6815-4967-b38f-044e03dbbb26.jpg",
@@ -153,6 +255,23 @@
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\acfefc5f-6815-4967-b38f-044e03dbbb26.jpg"
     },
     {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\c699b875-bc77-4bbf-8699-d1bd9e0ef6a2.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/c699b875-bc77-4bbf-8699-d1bd9e0ef6a2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\c699b875-bc77-4bbf-8699-d1bd9e0ef6a2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg",
       "SourceId": "webCam",
       "SourceType": "Discovered",
@@ -168,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CameraPhotos\\d11c0253-05f9-4b85-aad8-f15ca33fdce9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\e389ff61-fe37-4458-b9d5-ba02095e93e8.jpg",
+      "SourceId": "webCam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\",
+      "BasePath": "_content/webCam",
+      "RelativePath": "CameraPhotos/e389ff61-fe37-4458-b9d5-ba02095e93e8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CameraPhotos\\e389ff61-fe37-4458-b9d5-ba02095e93e8.jpg"
     },
     {
       "Identity": "C:\\Users\\flori\\Documents\\Schule\\Informatik\\153\\153_Projekt\\webCam\\wwwroot\\CameraPhotos\\ed0880a4-d5c9-4850-8d12-a36f780e0ae3.jpg",
