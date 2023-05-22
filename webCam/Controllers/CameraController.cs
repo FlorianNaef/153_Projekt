@@ -88,12 +88,12 @@ namespace webCamExample_Florian_Naef.Controllers
                         ImageBase64String = imageUrl,
                     };
                     this.context.ImageStores.Add(imageStore);
-                    //this.context.SaveChanges(); <- umbeding nachher wieder auskommentieren
+                    this.context.SaveChanges();
                 }
             }
             catch (Exception)
             {
-                throw;
+                
             }
         }
     }
